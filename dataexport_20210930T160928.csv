@@ -1,13 +1,3 @@
-location,Oymyakon,Oymyakon
-lat,63.37233,63.37233
-lon,142.80000,142.80000
-asl,838.439,838.439
-variable,Temperature,Precipitation Total
-unit,°C,mm
-level,2 m elevation corrected,sfc
-resolution,hourly,hourly
-aggregation,None,None
-timestamp,Oymyakon Temperature [2 m elevation corrected],Oymyakon Precipitation Total
 20190101T0000,-43.738144,0.0
 20190101T0100,-42.658146,0.0
 20190101T0200,-42.918144,0.0
